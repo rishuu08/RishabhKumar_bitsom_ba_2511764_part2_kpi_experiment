@@ -52,5 +52,10 @@ Should we roll out the new **Treatment campaign** (new landing page + onboarding
 - **No formula errors in output file**
 
 ---
-
+<img width="2985" height="1934" alt="kpi_tree" src="https://github.com/user-attachments/assets/55341a33-1871-416f-b6be-7001abfd15c0" />
+<img width="2384" height="1034" alt="hypothesis_test_output" src="https://github.com/user-attachments/assets/b2826e40-28be-4811-9b05-05938c21e0a7" />
+<img width="772" height="478" alt="summary_metrics_By_Device" src="https://github.com/user-attachments/assets/b7abb8d7-bab2-400a-bdda-55f23c719694" />
+<img width="1150" height="605" alt="summary metrices" src="https://github.com/user-attachments/assets/c398b481-d4c6-46eb-8f2e-df6ad690dceb" />
+<img width="852" height="495" alt="summary_metrics_By_Region" src="https://github.com/user-attachments/assets/489d7ba6-d4ed-45ed-9c05-6b2e168369af" />
+<img width="888" height="449" alt="summary_metrics_By_Traffic_Source" src="https://github.com/user-attachments/assets/3783b94c-1884-4557-915d-6d9541eb8421" />
 
